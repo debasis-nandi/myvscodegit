@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'my git app';
   constructor(){
-    this.title="Hi deb";
+    this.title="Angualr Git App";
   }
 }
