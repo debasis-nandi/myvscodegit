@@ -9,6 +9,5 @@ export class AppComponent {
   title = 'my git app';
   constructor(){
     this.title="Hi deb";
-    
   }
 }
